@@ -99,6 +99,7 @@ A consolidated dashboard was created featuring 12 key plots, including:
 * Correlation heatmap
 * Time-series trends
 * Subscription tier analysis
+* <img width="2390" height="1841" alt="image" src="https://github.com/user-attachments/assets/e92a4877-d584-47f3-bb80-18686159f655" />
 
 # 🔗 Acknowledgements
 This analysis was performed using Python libraries such as:
